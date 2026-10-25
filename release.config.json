@@ -1,0 +1,11 @@
+{
+  "repository": "PlayBoardgameTogether/playboard-game-splendor",
+  "key": "splendor",
+  "package": "@boardgame/splendor",
+  "assets": [
+    {
+      "id": "splendor.base",
+      "archive": "splendor"
+    }
+  ]
+}
