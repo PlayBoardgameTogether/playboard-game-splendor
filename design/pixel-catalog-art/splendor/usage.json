@@ -1,0 +1,13 @@
+{
+  "role": "game-avatar",
+  "source": "icon-source.png",
+  "sourceSha256": "a79db47c692949f16f69b1e8d95f2c9867a76485532ef8d5ad981f2712ec7da9",
+  "userSelected": true,
+  "export": "games/splendor/art/icon.png",
+  "size": [
+    512,
+    512
+  ],
+  "fit": "contain",
+  "backgroundUsage": false
+}
