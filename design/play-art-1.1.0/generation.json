@@ -1,0 +1,51 @@
+{
+  "version": "1.1.0",
+  "kind": "presentation-art",
+  "generator": "built-in image_gen",
+  "license": "GPL-3.0-only",
+  "rulesChanged": false,
+  "assets": [
+    {
+      "game": "splendor",
+      "role": "icon",
+      "prompt": "Use case: stylized-concept. NEW original artwork for a premium PlayBoard board game platform. Sophisticated richly detailed fine PIXEL ART, visible tiny square pixel clusters, tactile physical board game pieces, refined material textures, soft daylight, restrained highlights and natural shadows, mature inviting mood, clear readable silhouette. Coordinated natural wood and dark navy with theme-specific colors. No UI, no paragraphs, no title, no brand logo, no watermark, no border. Avoid generic flat vector, blurry painterly style, glossy casino, low detail cartoon. Asset: square 1024x1024 game avatar. Close-up central iconic arrangement of the main game objects, all important edges visible, 8% breathing room, instantly recognizable even at 64px. Subject: Renaissance gem merchant tabletop with five clearly different faceted gems: ruby, sapphire, emerald, onyx and diamond, small gold tokens and elegant market stalls.",
+      "original": "design/play-art-1.1.0/splendor/icon-original.png",
+      "source": "games/splendor/art/play-1.1.0/icon.png",
+      "originalSha256": "7fd4a437095277965dfcd704cbc0f3dab08c6714da932add3b3eddf151901fd8",
+      "sourceSha256": "8b1b8979b75eecd7ffd4ba8c4d74d18a63c5fc1506062b1d67bfd1a7fd5a9b50",
+      "webp": "splendor-icon.webp",
+      "webpSha256": "c18bd9680aa46d0a11f91bf5b23d9c5f57b96d6acacaa3860638fc9e52aeaa41",
+      "width": 512,
+      "height": 512,
+      "bytes": 127502
+    },
+    {
+      "game": "splendor",
+      "role": "cover",
+      "prompt": "Use case: stylized-concept. NEW original artwork for a premium PlayBoard board game platform. Sophisticated richly detailed fine PIXEL ART, visible tiny square pixel clusters, tactile physical board game pieces, refined material textures, soft daylight, restrained highlights and natural shadows, mature inviting mood, clear readable silhouette. Coordinated natural wood and dark navy with theme-specific colors. No UI, no paragraphs, no title, no brand logo, no watermark, no border. Avoid generic flat vector, blurry painterly style, glossy casino, low detail cartoon. Asset: landscape 16:10 game cover illustration. Compelling low three-quarter close view across the playable board and pieces, a small scene that makes the viewer want to sit down and play, strong foreground focal point, room to crop safely. Subject: Renaissance gem merchant tabletop with five clearly different faceted gems: ruby, sapphire, emerald, onyx and diamond, small gold tokens and elegant market stalls.",
+      "original": "design/play-art-1.1.0/splendor/cover-original.png",
+      "source": "games/splendor/art/play-1.1.0/cover.png",
+      "originalSha256": "9f35561c52f584a2ef4469fe2ca22ed2b05ed3aba3d2b5911d8bdcdd1710c796",
+      "sourceSha256": "20838edb6523cffb4e4eb743ca50b7ca8d0a3e33b59e6a95880cd2dd2b134656",
+      "webp": "splendor-cover.webp",
+      "webpSha256": "4a586f372ae4d03d6fff32735129176e51b6da5c6bab223340b55ef11d8d0552",
+      "width": 960,
+      "height": 600,
+      "bytes": 268276
+    },
+    {
+      "game": "splendor",
+      "role": "background",
+      "prompt": "Use case: stylized-concept. NEW original artwork for a premium PlayBoard board game platform. Sophisticated richly detailed fine PIXEL ART, visible tiny square pixel clusters, tactile physical board game pieces, refined material textures, soft daylight, restrained highlights and natural shadows, mature inviting mood, clear readable silhouette. Coordinated natural wood and dark navy with theme-specific colors. No UI, no paragraphs, no title, no brand logo, no watermark, no border. Avoid generic flat vector, blurry painterly style, glossy casino, low detail cartoon. Asset: wide 16:9 immersive background original art. Rich thematic environment extending around a softly lit tabletop in the foreground, detailed atmosphere at the edges, calm low contrast central area suitable behind game UI, no embedded interface. Subject: Renaissance gem merchant tabletop with five clearly different faceted gems: ruby, sapphire, emerald, onyx and diamond, small gold tokens and elegant market stalls.",
+      "original": "design/play-art-1.1.0/splendor/background-original.png",
+      "source": "games/splendor/art/play-1.1.0/background.png",
+      "originalSha256": "0b84531a61ac934b7e93c4b35ecbcfc81c1a728d121bbc83ff35fefd63484469",
+      "sourceSha256": "88bfee1b2038c2d1b436fb826bd8ba61cba72b319720dbfa60878f8c29f732e1",
+      "webp": "splendor-background.webp",
+      "webpSha256": "6f86b935ee6ee36e7dea752ed1b19eb2c1204f5480eef253f5118c61c1abfe11",
+      "width": 1280,
+      "height": 720,
+      "bytes": 375728
+    }
+  ]
+}
