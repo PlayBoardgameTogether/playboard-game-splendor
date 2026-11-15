@@ -1,0 +1,29 @@
+{
+  "version": "1.1.0",
+  "kind": "presentation-art",
+  "game": "splendor",
+  "ruleVersionUnchanged": true,
+  "assets": [
+    {
+      "role": "icon",
+      "file": "icon.png",
+      "sha256": "8b1b8979b75eecd7ffd4ba8c4d74d18a63c5fc1506062b1d67bfd1a7fd5a9b50",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "role": "cover",
+      "file": "cover.png",
+      "sha256": "20838edb6523cffb4e4eb743ca50b7ca8d0a3e33b59e6a95880cd2dd2b134656",
+      "width": 960,
+      "height": 600
+    },
+    {
+      "role": "background",
+      "file": "background.png",
+      "sha256": "88bfee1b2038c2d1b436fb826bd8ba61cba72b319720dbfa60878f8c29f732e1",
+      "width": 1280,
+      "height": 720
+    }
+  ]
+}
